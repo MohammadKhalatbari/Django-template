@@ -1,5 +1,13 @@
+----------------------------------------------
 DB information:
 admin address: http://127.0.0.1:8000/admin/
 user: admin
 pass:admin
 email: khalatbari.computer@gmail.com
+----------------------------------------------
+Start Server
+#python manage.py runserver
+----------------------------------------------
+See some pages:
+http://localhost:8000/polls/34/
+----------------------------------------------
